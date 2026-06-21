@@ -1,0 +1,4 @@
+mcp
+groq
+pymupdf
+python-dotenv
